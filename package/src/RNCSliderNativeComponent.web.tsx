@@ -147,7 +147,7 @@ const RCTSliderWebComponent = React.forwardRef(
 
     const trackStyle = {
       height: trackHeight,
-      borderRadius: trackHeight / 2,
+      // borderRadius: trackHeight / 2,
       userSelect: 'none',
     };
 
